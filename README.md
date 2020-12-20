@@ -1,5 +1,7 @@
 # Filtered Bicing Data
 
-Filtered data for the bicing visualization project (VI). From here you can read the data online with google colab easily. There is another file containing meteorological data of January 2020.
+Filtered data for the bicing visualizations projects (VI). From here you can read the data online with google colab easily.
 
-Both files were extracted from [Open Data Barcelona](https://opendata-ajuntament.barcelona.cat/en) and preprocessed to use them for visualizations.
+In this repository we save data used in two projects. The first only analyzed data from three stations adn the second analyzed deta from all the stations in Barcelona. All the data is from January 2020
+
+All files were extracted from [Open Data Barcelona](https://opendata-ajuntament.barcelona.cat/en) and preprocessed to use them for visualizations.
