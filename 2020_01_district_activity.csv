@@ -1,11 +1,41 @@
-District,mechanic,electric,total,capacity
-Ciutat Vella,210265.0,39490.0,249755.0,1607
-Eixample,371421.0,113291.0,484712.0,2752
-Gràcia,37984.0,27321.0,65305.0,555
-Horta-Guinardó,21822.0,16479.0,38301.0,794
-Les Corts,36832.0,24700.0,61532.0,825
-Nou Barris,15481.0,8716.0,24197.0,702
-Sant Andreu,57654.0,22493.0,80147.0,1211
-Sant Martí,260609.0,62597.0,323206.0,2457
-Sants-Montjuïc,106621.0,36068.0,142689.0,1278
-Sarrià-Sant Gervasi,41435.0,32228.0,73663.0,932
+District,variable,value
+Ciutat Vella,mechanic,210265.0
+Eixample,mechanic,371421.0
+Gràcia,mechanic,37984.0
+Horta-Guinardó,mechanic,21822.0
+Les Corts,mechanic,36832.0
+Nou Barris,mechanic,15481.0
+Sant Andreu,mechanic,57654.0
+Sant Martí,mechanic,260609.0
+Sants-Montjuïc,mechanic,106621.0
+Sarrià-Sant Gervasi,mechanic,41435.0
+Ciutat Vella,electric,39490.0
+Eixample,electric,113291.0
+Gràcia,electric,27321.0
+Horta-Guinardó,electric,16479.0
+Les Corts,electric,24700.0
+Nou Barris,electric,8716.0
+Sant Andreu,electric,22493.0
+Sant Martí,electric,62597.0
+Sants-Montjuïc,electric,36068.0
+Sarrià-Sant Gervasi,electric,32228.0
+Ciutat Vella,total,249755.0
+Eixample,total,484712.0
+Gràcia,total,65305.0
+Horta-Guinardó,total,38301.0
+Les Corts,total,61532.0
+Nou Barris,total,24197.0
+Sant Andreu,total,80147.0
+Sant Martí,total,323206.0
+Sants-Montjuïc,total,142689.0
+Sarrià-Sant Gervasi,total,73663.0
+Ciutat Vella,capacity,1607.0
+Eixample,capacity,2752.0
+Gràcia,capacity,555.0
+Horta-Guinardó,capacity,794.0
+Les Corts,capacity,825.0
+Nou Barris,capacity,702.0
+Sant Andreu,capacity,1211.0
+Sant Martí,capacity,2457.0
+Sants-Montjuïc,capacity,1278.0
+Sarrià-Sant Gervasi,capacity,932.0
