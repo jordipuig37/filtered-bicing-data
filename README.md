@@ -18,4 +18,8 @@ The second analyzed deta from all the stations in Barcelona. All the data is fro
 
 * Both `2020_01_windowed_wide.csv` and `2020_01_windowed_long.csv` contain the sum of activity from 06:00 to 22:00 for each day separated by pick-ups and drop-offs.
 
+* Both `2020_01_activity_mean_hour_long.csv` and `2020_01_activity_mean_hour_wide.csv` contains the mean activity for each hour of the day.
+
+* The file `2020_01_activity_mean_hour_long_weekdays.csv` has the same information as the two above but separated in weekday and weekend. IMPORTANT: weekdays are encoded as the day 1 of the month and weekends as the day 4.
+
 All files were extracted from [Open Data Barcelona](https://opendata-ajuntament.barcelona.cat/en) and preprocessed to use them for visualizations.
